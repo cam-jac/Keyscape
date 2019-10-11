@@ -1,0 +1,190 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8165
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\TextMeshPro-1.0.55.56.0b9.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\TextMeshPro-1.0.55.56.0b9.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.016 seconds
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8165
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\TextMeshPro-1.0.55.56.0b9.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\TextMeshPro-1.0.55.56.0b9.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.014 seconds
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8165
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\TextMeshPro-1.0.55.56.0b9.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\TextMeshPro-1.0.55.56.0b9.dll into Unity Child Domain
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.014 seconds
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Valefisk\Desktop\Secret Project\KeyMad\tempo_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.785884 ms
+<RI> Initialized touch support.
+UnloadTime: 0.775920 ms
+<RI> Initialized touch support.
+As OnConnectedToMaster() got called, the PhotonServerSetting.AutoJoinLobby must be off. Joining lobby by calling PhotonNetwork.JoinLobby().
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 0.786395 ms
+As OnConnectedToMaster() got called, the PhotonServerSetting.AutoJoinLobby must be off. Joining lobby by calling PhotonNetwork.JoinLobby().
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+As OnConnectedToMaster() got called, the PhotonServerSetting.AutoJoinLobby must be off. Joining lobby by calling PhotonNetwork.JoinLobby().
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnCreatedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.163257 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 784.
+Total: 0.248335 ms (FindLiveObjects: 0.033213 ms CreateObjectMapping: 0.020439 ms MarkObjects: 0.190850 ms  DeleteObjects: 0.003321 ms)
+
+OnPhotonPlayerConnected: 'Guest7907' 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.158147 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 784.
+Total: 0.244502 ms (FindLiveObjects: 0.031936 ms CreateObjectMapping: 0.019161 ms MarkObjects: 0.190083 ms  DeleteObjects: 0.003065 ms)
+
+OnPhotonPlayerConnected: 'Guest539' 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected: 'Guest539' 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.162235 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 784.
+Total: 0.250890 ms (FindLiveObjects: 0.030147 ms CreateObjectMapping: 0.020950 ms MarkObjects: 0.195704 ms  DeleteObjects: 0.003576 ms)
+
+OnLeftRoom (local)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPlayerDisconneced: 'Guest539' 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPlayerDisconneced: 'Guest539' 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.201836 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 650.
+Total: 0.240415 ms (FindLiveObjects: 0.024271 ms CreateObjectMapping: 0.020183 ms MarkObjects: 0.185485 ms  DeleteObjects: 0.009964 ms)
+
+As OnConnectedToMaster() got called, the PhotonServerSetting.AutoJoinLobby must be off. Joining lobby by calling PhotonNetwork.JoinLobby().
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4418 -> priority: 1 
+  Thread -> id: 4438 -> priority: 1 
+  Thread -> id: 4434 -> priority: 1 
+  Thread -> id: 4430 -> priority: 1 
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 43ac -> priority: 1 
+  Thread -> id: 4324 -> priority: 1 
+  Thread -> id: 40f4 -> priority: 1 
+  Thread -> id: 4284 -> priority: 1 
+OnMasterClientSwitched: 'Guest7907' (master)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPlayerDisconneced: 'Guest539' 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 36f8 -> priority: 1 
+  Thread -> id: 3644 -> priority: 1 
+  Thread -> id: 3b68 -> priority: 1 
+  Thread -> id: 43e4 -> priority: 1 
